@@ -74,12 +74,40 @@
 <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="40"/>
 </a>
 </p>
+<h2 align="center">🌐 Connect With Me</h2>
 
+<p align="center">
+
+<a href="https://github.com/Sayan-Official-32">
+<img src="https://cdn.simpleicons.org/github/white" height="40" alt="github"/>
 </a>
 
 <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" alt="linkedin"/>
 </a>
+
+<a href="mailto:YOURMAIL@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="gmail"/>
+</a>
+
+<a href="https://x.com/YOURUSERNAME">
+<img src="https://cdn.simpleicons.org/x/white" height="40" alt="x"/>
+</a>
+
+<a href="https://facebook.com/YOURUSERNAME">
+<img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" alt="facebook"/>
+</a>
+
+<a href="https://instagram.com/YOURUSERNAME">
+<img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" alt="instagram"/>
+</a>
+
+<a href="https://YOURPORTFOLIO.com">
+<img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="40" alt="portfolio"/>
+</a>
+
+</p>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
