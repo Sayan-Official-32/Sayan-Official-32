@@ -75,6 +75,11 @@
 </a>
 </p>
 
+</a>
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
