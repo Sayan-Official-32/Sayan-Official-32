@@ -46,8 +46,33 @@
 # 🤝 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="https://github.com/Sayan-Official-32"><img src="https://skillicons.dev/icons?i=github"/></a>
+<a href="https://github.com/Sayan-Official-32">
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+
+<a href="https://linkedin.com/in/your-linkedin">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="paulsayan0685@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" height="40"/>
+</a>
+
+<a href="https://x.com/SayanPaul0685?t=LPOxhZutENzT6kjNMlo4Xg&s=08">
+<img src="https://cdn.simpleicons.org/x/white" height="40"/>
+</a>
+
+<a href="https://www.facebook.com/share/1GWSn1UGKc/">
+<img src="https://cdn.simpleicons.org/facebook/1877F2" height="40"/>
+</a>
+
+<a href="https://instagram.com/">
+<img src="https://cdn.simpleicons.org/instagram/E4405F" height="40"/>
+</a>
+
+<a href="https://sayanpaul-portfolio.vercel.app/">
+<img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="40"/>
+</a>
 </p>
 
 
