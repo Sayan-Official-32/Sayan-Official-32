@@ -3,9 +3,9 @@
 
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
-- 🔭 I’m a **Data Engineer**
+- 🔭 I’m a **Machine Learning Engineer**
 
-- 👨‍💻 Ask me about **Cloud Data Engineering**
+- 👨‍💻 Ask me about **Machine Learning**
 
 - 💬 LinkedIn **https://www.linkedin.com/in/sayan-paul-562497284**
 <h3 align="left">Languages and Tools:</h3>
