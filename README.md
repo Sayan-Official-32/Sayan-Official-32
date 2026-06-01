@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/86871718/161140687-a001991c-2804-4a42-9ecb-2a5bc96ddaf5.gif" width="35">  Hi there, I'm Souvik Majumder... nice to see you! <img src="https://user-images.githubusercontent.com/86871718/161139862-048ac7a9-9731-4b2e-abba-165538b42917.gif" width="35">
+# <img src="https://user-images.githubusercontent.com/86871718/161140687-a001991c-2804-4a42-9ecb-2a5bc96ddaf5.gif" width="35">  Hi there, I'm Sayan Paul... nice to see you! <img src="https://user-images.githubusercontent.com/86871718/161139862-048ac7a9-9731-4b2e-abba-165538b42917.gif" width="35">
 
 A passionate problem solver and dedicated engineer hailing from India, I thrive on unraveling intricate challenges. My software journey revolves around harnessing the power of digital technologies such as Data Science, Artificial Intelligence, and Cloud Computing, transforming bold ideas into reality while generating substantial value for businesses and society. I take great care in the things I build.
 
@@ -14,20 +14,20 @@ A passionate problem solver and dedicated engineer hailing from India, I thrive 
 <img align="left" width="1px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
 
 
-<a href="https://www.linkedin.com/in/souvikmajumder26/" target="_blank">
-  <img align="left" alt="Souvik's LinkedIn" height="30" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />
+<a href="[https://www.linkedin.com/in/Sayan-Official-32/](https://www.linkedin.com/in/sayan-paul-562497284)" target="_blank">
+  <img align="left" alt="Sayan's LinkedIn" height="30" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />
 </a>
 
 <img align="left" width="1px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
 
-<a href="https://leetcode.com/Souvik_Majumder" target="_blank">
-  <img align="left" alt="Souvik's LeetCode" height="30" src="leetcode.png" />
+<a href="https://leetcode.com/Sayan_Paul" target="_blank">
+  <img align="left" alt="Sayan's LeetCode" height="30" src="leetcode.png" />
 </a>
 
 <img align="left" width="1px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
 
 <a href="https://orcid.org/0000-0002-2382-7401" target="_blank">
-  <img align="left" alt="Souvik's ORCID" height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" />
+  <img align="left" alt="Sayan's ORCID" height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" />
 </a>
 
 <br />
@@ -66,8 +66,6 @@ A passionate problem solver and dedicated engineer hailing from India, I thrive 
   -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" height="40"/>
   <img width="1px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" height="40"/>
-  <img width="1px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" height="40"/>
   <img width="1px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" alt="conda" height="40"/>
@@ -105,7 +103,7 @@ A passionate problem solver and dedicated engineer hailing from India, I thrive 
 
 ## 🤖 GitHub Stats:
 
-|<a href="https://github-readme-stats-mu-ochre-71.vercel.app/api?username=souvikmajumder26&show_icons=true&include_all_commits=true&theme=swift&hide_border=true"><img align="center" src="https://github-readme-stats-mu-ochre-71.vercel.app/api?username=souvikmajumder26&show_icons=true&include_all_commits=true&theme=swift&hide_border=true" alt="Souvik's github stats" /></a>|<a href="https://github-readme-stats-mu-ochre-71.vercel.app/api/top-langs/?username=souvikmajumder26&layout=compact&show_icons=true&theme=swift&hide_border=true"><img align="center" src="https://github-readme-stats-mu-ochre-71.vercel.app/api/top-langs/?username=souvikmajumder26&layout=compact&show_icons=true&theme=swift&hide_border=true" /></a>|
+|<a href="https://github-readme-stats-mu-ochre-71.vercel.app/api?username=Sayan-Official-32&show_icons=true&include_all_commits=true&theme=swift&hide_border=true"><img align="center" src="https://github-readme-stats-mu-ochre-71.vercel.app/api?username=Sayan-Official-32&show_icons=true&include_all_commits=true&theme=swift&hide_border=true" alt="Sayan's github stats" /></a>|<a href="https://github-readme-stats-mu-ochre-71.vercel.app/api/top-langs/?username=Sayan-Official-32&layout=compact&show_icons=true&theme=swift&hide_border=true"><img align="center" src="https://github-readme-stats-mu-ochre-71.vercel.app/api/top-langs/?username=Sayan-Official-32&layout=compact&show_icons=true&theme=swift&hide_border=true" /></a>|
 | ------------- | ------------- |
 
 
@@ -113,15 +111,15 @@ A passionate problem solver and dedicated engineer hailing from India, I thrive 
 
 <p align=center><b>Data Science, Machine Learning and Deep Learning Projects & Research Publications</b></p>
 
-|<a href="https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant"><img align="center" src="https://github-readme-stats-mu-ochre-71.vercel.app/api/pin/?username=souvikmajumder26&repo=Multi-Agent-Medical-Assistant&show_icons=false&theme=swift" /></a>|<a href="https://github.com/souvikmajumder26/Land-Cover-Semantic-Segmentation-PyTorch"><img align="center" src="https://github-readme-stats-mu-ochre-71.vercel.app/api/pin/?username=souvikmajumder26&repo=Land-Cover-Semantic-Segmentation-PyTorch&show_icons=true&theme=swift" /></a>|
+|<a href="https://github.com/Sayan-Official-32/Multi-Agent-Medical-Assistant"><img align="center" src="https://github-readme-stats-mu-ochre-71.vercel.app/api/pin/?username=Sayan-Official-32&repo=Multi-Agent-Medical-Assistant&show_icons=false&theme=swift" /></a>|<a href="https://github.com/Sayan-Official-32/Land-Cover-Semantic-Segmentation-PyTorch"><img align="center" src="https://github-readme-stats-mu-ochre-71.vercel.app/api/pin/?username=Sayan-Official-32&repo=Land-Cover-Semantic-Segmentation-PyTorch&show_icons=true&theme=swift" /></a>|
 | ------------- | ------------- |
-|<a href="https://github.com/souvikmajumder26/Any-Face-Clustering"><img align="center" src="https://github-readme-stats-mu-ochre-71.vercel.app/api/pin/?username=souvikmajumder26&repo=Any-Face-Clustering&show_icons=true&theme=swift" /></a>|<a href="https://github.com/souvikmajumder26/Neural-Network-from-Scratch"><img align="center" src="https://github-readme-stats-mu-ochre-71.vercel.app/api/pin/?username=souvikmajumder26&repo=Neural-Network-from-Scratch&show_icons=true&theme=swift" /></a>|
+|<a href="https://github.com/Sayan-Official-32/Any-Face-Clustering"><img align="center" src="https://github-readme-stats-mu-ochre-71.vercel.app/api/pin/?username=Sayan-Official-32&repo=Any-Face-Clustering&show_icons=true&theme=swift" /></a>|<a href="https://github.com/Sayan-Official-32/Neural-Network-from-Scratch"><img align="center" src="https://github-readme-stats-mu-ochre-71.vercel.app/api/pin/?username=Sayan-Official-32&repo=Neural-Network-from-Scratch&show_icons=true&theme=swift" /></a>|
 
 <br />
 
 <p align=center><b>Web Development Projects for Fun</b></p>
 
-|<a href="https://github.com/souvikmajumder26/Art-Page"><img align="center" src="https://github-readme-stats-mu-ochre-71.vercel.app/api/pin/?username=souvikmajumder26&repo=Art-Page&show_icons=true&theme=swift" /></a>|<a href="https://github.com/souvikmajumder26/Arrow-India"><img align="center" src="https://github-readme-stats-mu-ochre-71.vercel.app/api/pin/?username=souvikmajumder26&repo=Arrow-India&show_icons=true&theme=swift" /></a>|
+|<a href="https://github.com/Sayan-Official-32/Art-Page"><img align="center" src="https://github-readme-stats-mu-ochre-71.vercel.app/api/pin/?username=Sayan-Official-32&repo=Art-Page&show_icons=true&theme=swift" /></a>|<a href="https://github.com/Sayan-Official-32/Arrow-India"><img align="center" src="https://github-readme-stats-mu-ochre-71.vercel.app/api/pin/?username=Sayan-Official-32&repo=Arrow-India&show_icons=true&theme=swift" /></a>|
 | ------------- | ------------- |
 
 <br />
