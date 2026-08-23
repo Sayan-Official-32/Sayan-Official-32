@@ -1,5 +1,6 @@
 # <img src="https://user-images.githubusercontent.com/86871718/161140687-a001991c-2804-4a42-9ecb-2a5bc96ddaf5.gif" width="35">  Hi there, I'm Sayan Paul... nice to see you! <img src="https://user-images.githubusercontent.com/86871718/161139862-048ac7a9-9731-4b2e-abba-165538b42917.gif" width="35">
 
+
 A passionate problem solver and dedicated engineer hailing from India, I thrive on unraveling intricate challenges. My software journey revolves around harnessing the power of digital technologies such as Data Science, Artificial Intelligence, and Cloud Computing, transforming bold ideas into reality while generating substantial value for businesses and society. I take great care in the things I build.
 
 - 🔭 A Machine Learning Engineer contributing to innovative projects with a focus on building efficient solutions be it using traditional Deep Learning techniques or new age GenAI.
