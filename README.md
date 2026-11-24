@@ -22,7 +22,7 @@ A passionate problem solver and dedicated engineer hailing from India, I thrive 
 
 <img align="left" width="1px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
 
-<a href="https://leetcode.com/Sayan_Paul" target="_blank">
+<a href="https://leetcode.com/sayan069" target="_blank">
   <img align="left" alt="Sayan's LeetCode" height="30" src="leetcode.png" />
 </a>
 
